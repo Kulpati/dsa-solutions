@@ -42,7 +42,7 @@ Templates/
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 0 |
-| Strings | 0 |
+| Strings | 1 |
 | Sliding Window | 0 |
 | Prefix Sum | 0 |
 | Trees | 0 |
