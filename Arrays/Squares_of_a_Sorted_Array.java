@@ -3,17 +3,17 @@ class Solution {
         int lf=0;
         int rg=nums.length-1;
         int res[]=new int[nums.length];
-        int i=res.length-1;
+        int id=res.length-1;
         while(lf<=rg){
             int n1=nums[lf];
             int n2=nums[rg];
             if(n1<0){n1*=-1;}
             if(n2<0){n2*=-1;}
             if(n2>n1){
-                res[i--]=n2*n2;
+                res[id--]=n2*n2;
                 rg--;
             }else{
-                res[i--]=n1*n1;
+                res[id--]=n1*n1;
                 lf++;
             }
             
