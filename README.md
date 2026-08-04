@@ -41,7 +41,7 @@ Templates/
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 0 |
+| Arrays | 2 |
 | Strings | 1 |
 | Sliding Window | 0 |
 | Prefix Sum | 0 |
