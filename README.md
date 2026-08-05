@@ -42,9 +42,9 @@ Templates/
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 2 |
-| Strings | 1 |
-| Sliding Window | 0 |
-| Prefix Sum | 0 |
+| Strings | 2 |
+| Sliding Window | 2 |
+| Prefix Sum | 2 |
 | Trees | 0 |
 | Graph | 0 |
 | DP | 0 |
