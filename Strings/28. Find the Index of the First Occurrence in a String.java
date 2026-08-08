@@ -2,7 +2,7 @@ class Solution {
     public int strStr(String haystack, String needle) {
         if(needle.length()==0){return 0;}
         if(needle.length()>haystack.length()){return -1;}
-        int mod=1000000009;
+        int mod=1000000007;
         int base=31;
         long hash=0;
         for(int i=0;i<needle.length();i++){
