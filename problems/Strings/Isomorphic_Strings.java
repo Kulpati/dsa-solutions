@@ -1,4 +1,12 @@
-import java.util.Hashtable;
+package Strings;
+
+import java.util.*;
+
+/**
+ * Isomorphic_Strings
+ */
+public class Isomorphic_Strings {
+
 class Solution {
     public boolean isIsomorphic(String s, String t) {
        
@@ -16,3 +24,6 @@ class Solution {
         }
     return true;}
 }
+    
+}
+

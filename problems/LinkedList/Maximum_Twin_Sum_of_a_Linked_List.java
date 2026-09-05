@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Maximum_Twin_Sum_of_a_Linked_List {
 
    class ListNode {

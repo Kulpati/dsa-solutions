@@ -1,4 +1,6 @@
+package LinkedList;
 import java.util.*;
+
 public class Merge_k_Sorted_Lists{
    class ListNode {
       int val;

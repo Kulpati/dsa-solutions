@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Remove_Nth_Node_From_End_of_List{
     class ListNode {
      int val;

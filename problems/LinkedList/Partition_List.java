@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Partition_List {
   
   public class ListNode {

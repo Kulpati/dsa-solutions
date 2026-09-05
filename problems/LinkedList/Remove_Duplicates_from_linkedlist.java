@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Remove_Duplicates_from_linkedlist{
     
   public class ListNode {

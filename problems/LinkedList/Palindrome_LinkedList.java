@@ -1,4 +1,6 @@
- public class Palindrome_LinkedList{
+package LinkedList;
+
+public class Palindrome_LinkedList{
  class ListNode {
      int val;
      ListNode next;

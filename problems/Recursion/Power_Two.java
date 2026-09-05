@@ -1,3 +1,11 @@
+package Recursion;
+/**
+ * Power_Two
+ */
+public class Power_Two {
+
+    
+
 class Solution {
     private boolean recur(int n){
         if(n==1){
@@ -13,4 +21,5 @@ class Solution {
         if(n==0){return false;}
         return recur(n);
     }
+}
 }

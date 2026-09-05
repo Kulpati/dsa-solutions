@@ -1,3 +1,9 @@
+package Recursion;
+
+public class Power_Of_Three {
+
+
+
 class Solution {
     private boolean recur(int n) {
         if (n == 1) {
@@ -12,4 +18,5 @@ class Solution {
         if(n==0){return false;}
         return recur(n);
     }
+}
 }

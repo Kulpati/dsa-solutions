@@ -1,3 +1,5 @@
+
+import java.util.*;
 public class Smallest_Missing_Multiple_of_K {
    class Solution {
     public int missingMultiple(int[] nums, int k) {

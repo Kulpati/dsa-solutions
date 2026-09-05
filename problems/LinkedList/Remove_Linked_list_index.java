@@ -1,3 +1,5 @@
+
+package LinkedList;
 public class Remove_Linked_list_index {
     
  

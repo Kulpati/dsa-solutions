@@ -1,3 +1,4 @@
+package LinkedList;
 public class Swapping_Nodes_in_a_Linked_List {
      class ListNode {
      int val;

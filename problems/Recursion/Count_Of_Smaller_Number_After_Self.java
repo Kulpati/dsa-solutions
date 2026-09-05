@@ -1,3 +1,9 @@
+package Recursion;
+import java.util.*;
+public class Count_Of_Smaller_Number_After_Self {
+
+    
+
 class Solution {
     int[] count;
 
@@ -52,4 +58,5 @@ class Solution {
         }
         return result;
     }
+}
 }

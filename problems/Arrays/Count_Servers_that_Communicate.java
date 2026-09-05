@@ -1,3 +1,5 @@
+package Arrays;
+
 public class Count_Servers_that_Communicate {
     class Solution {
     public int countServers(int[][] grid) {
