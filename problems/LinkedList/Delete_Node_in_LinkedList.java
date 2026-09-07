@@ -1,5 +1,5 @@
 package LinkedList;
-import java.util.*;
+
 public class Delete_Node_in_LinkedList {
     
  
